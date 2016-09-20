@@ -13,6 +13,7 @@ class TForm1 : public TForm
 __published:	// IDE で管理されるコンポーネント
 	TLabel *Label1;
 	TLabel *Label2;
+	TLabel *Label3;
 	void __fastcall Label2Click(TObject *Sender);
 private:	// ユーザー宣言
 public:		// ユーザー宣言
